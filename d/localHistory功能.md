@@ -5,4 +5,4 @@ https://www.v2ex.com/t/353035
 
 写 C++
 
-intellij JetBrains CLion
+IntellJ JetBrains CLion
