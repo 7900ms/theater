@@ -1,4 +1,6 @@
 
+[怎么挑软件 怎么被兜售软件](https://github.com/7900ms/000nottheater_deserted_systemsoftware/tree/master/net-iosrecord)
+
 电脑丰富了人们的生活。上网 Google, 看图 ACDSee, 媒体 Windows Media Player, 浏览器 IE 足矣。这些软件让人们的生活丰富多彩。
 
 这些软件 非常恰如其分满足人们的需要。还要求什么呢？别人家没有电脑，你有电脑，这已经很让人开心了。所以要好好保护电脑，不要乱安装软件：那会是电脑中毒。
