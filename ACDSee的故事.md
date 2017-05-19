@@ -39,3 +39,11 @@
 - 安全性高也得防病毒啊 (linux比win安全性高)
 
 -
+
+```
+我说的话 就是我的流
+大量时间 跟经典人士学说话(业内人士评价高的书)
+少量时间 跟上流人士学说话(业内人士评价高的媒体)
+啥话都瞎说,很下流人士学说话(下等人的平准水平就是很差的)
+```
+[下等人的指责之一就是攻击上当人的地位](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md)
