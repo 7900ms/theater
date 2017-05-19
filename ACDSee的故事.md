@@ -46,4 +46,4 @@
 少量时间 跟上流人士学说话(业内人士评价高的媒体)
 啥话都瞎说,很下流人士学说话(下等人的平准水平就是很差的)
 ```
-[下等人的指责之一就是攻击上当人的地位](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md)
+[下等人的指责之一就是攻击上当人的整体地位](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-躲避后-侦探游记.md) <br>[自由世界 下等人可抱团, 上等人可以躲开他们](https://github.com/7900ms/000nottheater_deserted_systemlibrary/blob/master/supplementary/term-心理-自由世界.md)
